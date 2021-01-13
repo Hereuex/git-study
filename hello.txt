@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 asd
 asd
 asd
 asd
-=======
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
@@ -18,4 +16,5 @@ hello git! hello atguigu!
 hello git! hello atguigu! $$$$$$$$$$$$$$$$$$$$
 hello git! hello atguigu!
 hello git! hello atguigu! &&&&&&&&&&&&&&&&&&&&
->>>>>>> hot-fix
+hot-fix
+葵花宝典已备好，请使用
