@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 asd
 asd
 asd
 asd
+=======
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu! $$$$$$$$$$$$$$$$$$$$
+hello git! hello atguigu!
+hello git! hello atguigu! &&&&&&&&&&&&&&&&&&&&
+>>>>>>> hot-fix
